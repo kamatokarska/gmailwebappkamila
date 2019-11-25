@@ -1,0 +1,28 @@
+---
+
+
+---
+
+<h1 id="gmail-web-app">Gmail Web App</h1>
+<p>Welcome in the Gmail Web App! This guide will show you the basics of our application, help you to start an adventure with it, and introduce you with one of its main features.</p>
+<p>Before we start, you should know that the Gmail Web App helps with sending emails, organizing them, accessing your calendar, notes and tasks and navigating to other Google Aps.</p>
+<p>Ready? Let’s start!</p>
+<h2 id="table-of-contents">Table of contents:</h2>
+<ul>
+<li>Dashboard
+</li><li>Create and send your email
+</li><li>Organize your emails
+</li><li> Access your tasks
+</li><li> Etc.
+</li></ul>
+<h2 id="dashboard">Dashboard</h2>
+<p>The dashboard is a kind of a ‘control head’ showing you all the available options. From this place, you can start your adventure with our app - you can create and send your emails, search for emails and organize them, as well as navigate to other Google Aps.<br>
+&lt;image</p>
+<h2 id="create-and-send-your-email">Create and send your email</h2>
+<p>To create and send your email you need to:</p>
+<ol>
+<li>First, click the white, big  'Compose' button which is located in the top left corner of your Gmail IMAGE</li>
+<li>A 'new message' window will pop out on your screen.
+</li> 
+<li> vvvv</li>
+</ol>
